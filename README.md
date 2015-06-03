@@ -9,7 +9,7 @@ Untuk mengirim tulisan ke dalam buku ini, ikuti langkah berikut:
 1. Fork repositori ini.
 2. Tambahkan tulisan Anda dalam format markdown.
 3. Buat nama file sesuai judul. Misalnya, judulnya "Menghargai Waktu", maka nama filenya `menghargai-waktu.md`.
-4. Tambahkan Nama penulis (dan email kalau mau) di akhir tulisan.
+4. Tambahkan Nama penulis (dan email jika ingin dicantumkan) di akhir tulisan.
 5. Pull request.
 
 P.S: Jika Anda belum paham tentang Github, boleh kirim aja artikelnya ke rahmat.awaludin@gmail.com dalam bentuk docx atau markdown.
